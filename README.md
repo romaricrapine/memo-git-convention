@@ -38,4 +38,6 @@
 
 - Test : Ajout ou modification de tests
 
-- ![#f03c15] Couleur
+```json
+Test color
+```
