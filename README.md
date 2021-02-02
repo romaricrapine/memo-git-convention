@@ -37,3 +37,5 @@
 - Docs : Rédaction ou mise à jour de documentation
 
 - Test : Ajout ou modification de tests
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
