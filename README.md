@@ -1,6 +1,4 @@
-``` Diff 
 # Git conventions for great commits (EN)
-```
 
 :heavy_minus_sign: Build : Changes that affect the build system or external dependencies (npm, make ...)
 
