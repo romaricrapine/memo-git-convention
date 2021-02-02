@@ -38,6 +38,10 @@
 
 - Test : Ajout ou modification de tests
 
-```json
-Test color
+```diff
+- Coucou
++ Coucou
+! Coucou
+# Coucou
+@@ Coucou @@
 ```
