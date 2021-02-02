@@ -1,4 +1,6 @@
-# Git conventions for great commits (EN)
+``` Diff 
+@@# Git conventions for great commits (EN)@@
+```
 
 - Build : Changes that affect the build system or external dependencies (npm, make ...)
 
@@ -43,5 +45,4 @@
 + Coucou
 ! Coucou
 # Coucou
-@@ Coucou @@
 ```
